@@ -5,6 +5,13 @@
 
 ![Mia's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiaB-Dev&show_icons=true&theme=tokyonight)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiaB-Dev&theme=tokyonight)
+
+
+
+
+
+
 
 
 
