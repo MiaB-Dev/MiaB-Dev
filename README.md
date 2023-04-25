@@ -2,7 +2,7 @@
 
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mia-b-75a522266/)
 
-
+E-mail: mia.pbueno@gmail.com
 
 <div style="display: inline_block"><br>
     <img height="220em" src="https://github-readme-stats.vercel.app/api?username=MiaB-Dev&show_icons=true&theme=tokyonight">
